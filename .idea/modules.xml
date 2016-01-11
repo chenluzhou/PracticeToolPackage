@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWord/HelloWord.iml" filepath="$PROJECT_DIR$/HelloWord/HelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCodeOJ/LeetCodeOJ.iml" filepath="$PROJECT_DIR$/LeetCodeOJ/LeetCodeOJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeToolPackage.iml" filepath="$PROJECT_DIR$/PracticeToolPackage.iml" />
     </modules>
   </component>
